@@ -19,23 +19,23 @@ public class Test1 {
 	
 public static void main(String[] args) {
 	
-//	 HashSet<String> hset = new HashSet<String>();
-//	 hset.add("Velociry");
-//	 hset.add("July");
-//	 hset.add("Batch");
-//	 
-//	 Iterator<String> itr = hset.iterator();
-//	 
-//	 for(String a : hset)
-//	 {
-//		 System.out.println(itr.next());
-//	 }
-//	 
-//	 while(itr.hasNext()) {
-//		 System.out.println(itr.next());
-//	 }
-//	 
-//	
+	 HashSet<String> hset = new HashSet<String>();
+	 hset.add("Velociry");
+	 hset.add("July");
+	 hset.add("Batch");
+	 
+	 Iterator<String> itr = hset.iterator();
+	 
+	 for(String a : hset)
+	 {
+		 System.out.println(itr.next());
+	 }
+	 
+	 while(itr.hasNext()) {
+		 System.out.println(itr.next());
+	 }
+	 
+	
 	Hashtable<String, String> hashtable = new Hashtable<String, String>();
 	hashtable.put("Key1", "Value1");
 	hashtable.put("Key2", "Value2");
