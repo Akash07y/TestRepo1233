@@ -22,7 +22,7 @@ public class Test2  <D>  {
 		o.test(d);
 		
 		o.test(f);
-		System.out.println(f);
+		
 	}
 
 
