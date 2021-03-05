@@ -61,6 +61,18 @@ public static void main(String[] args) {
     for (Map.Entry <String, String > m:hasmap.entrySet()) { 
         System.out.println(m.getKey()+" "+m.getValue()); 
     } 
+	
+	    for (Map.Entry <String, String > m:hasmap.entrySet()) { 
+        System.out.println(m.getKey()+" "+m.getValue()); 
+    }
+	
+	    for (Map.Entry <String, String > m:hasmap.entrySet()) { 
+        System.out.println(m.getKey()+" "+m.getValue()); 
+    }
+	
+	    for (Map.Entry <String, String > m:hasmap.entrySet()) { 
+        System.out.println(m.getKey()+" "+m.getValue()); 
+    }
     
 }   
 
